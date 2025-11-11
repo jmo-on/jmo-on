@@ -38,3 +38,9 @@ my work lies at the intersection of **systems engineering**, **machine learning*
 **[Delineo Disease Modeling](https://github.com/Delineo-Disease-Modeling/Algorithms)** — Pandemic simulation research
 
 **[HopHacks](https://github.com/HopHacks/hophacks-flask)** — JHU’s annual hackathon platform  
+
+### Featured Work
+[![Summit](https://img.shields.io/badge/Summit-Django%20%7C%20Supabase-blue)](https://summit-jobs.com)
+[![Noori AI](https://img.shields.io/badge/Noori%20AI-MarianNMT%20%7C%20PyTorch-green)](https://nooriai.com)
+[![Delineo](https://img.shields.io/badge/Delineo%20Modeling-Optimization%20%7C%20WHO%20Project-orange)](https://github.com/Delineo-Disease-Modeling/Algorithms)
+[![HopHacks](https://img.shields.io/badge/HopHacks-Flask%20%7C%20React-yellow)](https://github.com/HopHacks/hophacks-flask)
