@@ -21,6 +21,11 @@ my work lies at the intersection of **systems engineering**, **machine learning*
 
 ---
 
+![Jin Hong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmo-on&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmo-on&layout=compact&theme=default)
+
+---
+
 ## Experience
 
 **Bloomberg LP** — *Software Engineering Intern (New York, 2025)*  
@@ -39,7 +44,6 @@ my work lies at the intersection of **systems engineering**, **machine learning*
 
 **[HopHacks](https://github.com/HopHacks/hophacks-flask)** — JHU’s annual hackathon platform  
 
-### Featured Work
 [![Summit](https://img.shields.io/badge/Summit-Django%20%7C%20Supabase-blue)](https://summit-jobs.com)
 [![Noori AI](https://img.shields.io/badge/Noori%20AI-MarianNMT%20%7C%20PyTorch-green)](https://nooriai.com)
 [![Delineo](https://img.shields.io/badge/Delineo%20Modeling-Optimization%20%7C%20WHO%20Project-orange)](https://github.com/Delineo-Disease-Modeling/Algorithms)
