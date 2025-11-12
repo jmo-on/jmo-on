@@ -1,7 +1,7 @@
 ## About Me
 
 I’m passionate about building high-performance systems and AI infrastructure that scale.  
-my work lies at the intersection of **systems engineering**, **machine learning**, and **data infrastructure**.
+Intersection of **systems engineering**, **machine learning**, and **backend infrastructure**.
 
 ---
 
