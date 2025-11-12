@@ -1,10 +1,3 @@
-# Jin Hong Moon
-
-**Computer Science @ Johns Hopkins University**  
-Baltimore, MD | [jinhongmoon.com](https://jinhongmoon.com) | jaydenmoon7@gmail.com  
-
----
-
 ## About Me
 
 I’m passionate about building high-performance systems and AI infrastructure that scale.  
