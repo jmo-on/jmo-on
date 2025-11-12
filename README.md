@@ -19,11 +19,12 @@ my work lies at the intersection of **systems engineering**, **machine learning*
 - **Backend Engineering** – Flask/Django REST APIs, GCP, containerized workflows  
 - **Performance Optimization** – concurrency, caching, task queues, scalability
 
-![](https://komarev.com/ghpvc/?username=jmo-on&style=flat&color=gray)
+![snake gif](https://github.com/jmo-on/jmo-on/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ---
 
+![](https://komarev.com/ghpvc/?username=jmo-on&style=flat&color=gray)
 ![Jin Hong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmo-on&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmo-on&layout=compact&theme=default)
 -->
