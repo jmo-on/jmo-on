@@ -19,6 +19,8 @@ my work lies at the intersection of **systems engineering**, **machine learning*
 - **Backend Engineering** – Flask/Django REST APIs, GCP, containerized workflows  
 - **Performance Optimization** – concurrency, caching, task queues, scalability
 
+![](https://komarev.com/ghpvc/?username=jmo-on&style=flat&color=gray)
+
 <!--
 ---
 
