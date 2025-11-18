@@ -1,7 +1,7 @@
 ## About Me
 
 I’m passionate about building high-performance systems and AI infrastructure that scale.  
-Intersection of **systems engineering**, **machine learning**, and **backend infrastructure**.
+Intersection of **systems engineering**, **machine learning**, **game dev**, and **backend infrastructure**.
 
 ---
 
